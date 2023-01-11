@@ -5,7 +5,7 @@ This project implements nlp model for text summarisation.
 
 
 
-##Local installation
+## Local installation
 
 to install this project run in project dir
 ```bash
